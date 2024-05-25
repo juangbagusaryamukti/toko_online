@@ -89,7 +89,7 @@
         <table class="table table-hover">
             <thead>
                 <tr>
-                    <th scope="col">#</th>
+                    <th scope="col">NO</th>
                     <th scope="col">Nama Produk</th>
                     <th scope="col">ID Produk</th>
                     <th scope="col">Deskripsi</th>
